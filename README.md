@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front end mentor solution](https://www.frontendmentor.io/solutions/faq-accordion-solution-using-vanilla-js-S8aQLAMp4I)
+- Live Site URL: [Live GitHub pages site](https://jchavezsharp.github.io/frontendmentor---faq-accordion/)
 
 ## My process
 
